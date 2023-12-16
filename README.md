@@ -60,6 +60,8 @@ The architecture consists of the following components:
 
 ### Website Deployment 
 
+<img width="948" alt="Screenshot 2023-12-16 at 2 56 31 PM" src="https://github.com/MasudDevSecOps/Jenkins-Sonarqube-Docker-AWS/assets/118152048/66d728b6-e878-4f23-a986-9e3126dd09c3">
+
 1. Pull website Docker image in the deployment stage
 2. Deploy container with Nginx to render the website
 3. Health check added to validate deployment
